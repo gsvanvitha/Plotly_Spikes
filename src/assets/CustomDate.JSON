@@ -1,0 +1,302 @@
+[
+  {
+    "X-Axis Value": "2021-09-14 05:36",
+    "Y-Axis Value": 0.399,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 80,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.999
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:37",
+    "Y-Axis Value": 0.499,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 90,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.901
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:38",
+    "Y-Axis Value": 0.599,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.9
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:39",
+    "Y-Axis Value": 0.199,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 99,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.899
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:40",
+    "Y-Axis Value": 0.599,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 70,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.799
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:41",
+    "Y-Axis Value": 0.499,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 80,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.799
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:42",
+    "Y-Axis Value": 0.699,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.799
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:43",
+    "Y-Axis Value": 0.399,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.789
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:44",
+    "Y-Axis Value": 0.499,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.789
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:45",
+    "Y-Axis Value": 0.599,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.699
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:46",
+    "Y-Axis Value": 0.199,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.699
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:47",
+    "Y-Axis Value": 0.599,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 80,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.699
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:48",
+    "Y-Axis Value": 0.499,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 90,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.599
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:49",
+    "Y-Axis Value": 0.699,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.599
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:50",
+    "Y-Axis Value": 0.199,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 99,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.599
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:51",
+    "Y-Axis Value": 0.799,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 70,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.599
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:52",
+    "Y-Axis Value": 0.789,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 80,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.599
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:53",
+    "Y-Axis Value": 0.901,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.599
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:54",
+    "Y-Axis Value": 0.599,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 110,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.499
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:55",
+    "Y-Axis Value": 0.199,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.499
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:56",
+    "Y-Axis Value": 0.599,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 40,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.499
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:57",
+    "Y-Axis Value": 0.499,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 50,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.499
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:58",
+    "Y-Axis Value": 0.699,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 80,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.499
+  },
+  {
+    "X-Axis Value": "2021-09-14 05:59",
+    "Y-Axis Value": 0.199,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 90,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.399
+  },
+  {
+    "X-Axis Value": "2021-09-14 06:00",
+    "Y-Axis Value": 0.799,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.399
+  },
+  {
+    "X-Axis Value": "2021-09-14 06:01",
+    "Y-Axis Value": 0.789,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 99,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.199
+  },
+  {
+    "X-Axis Value": "2021-09-14 06:02",
+    "Y-Axis Value": 0.999,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 70,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.199
+  },
+  {
+    "X-Axis Value": "2021-09-14 06:03",
+    "Y-Axis Value": 0.9,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 80,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.199
+  },
+  {
+    "X-Axis Value": "2021-09-14 06:04",
+    "Y-Axis Value": 0.799,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 60,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.199
+  },
+  {
+    "X-Axis Value": "2021-09-14 06:05",
+    "Y-Axis Value": 0.899,
+    "Y-Axis Status": "Valid",
+    "Phase": 0,
+    "Phase Status": "Valid",
+    "Speed": 100,
+    "Speed Status": "Valid",
+    "Y-Axis 2 Value": 0.199
+  }
+]
